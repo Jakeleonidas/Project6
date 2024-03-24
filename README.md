@@ -6,7 +6,3 @@ Fetch the most recent photos within the last 24 hours from the server. -
 Of those returned in the response, only show the post if the createdAt property is within 24 hours of the logged in user’s last post. - 
 You can either obstruct the photo (see blurred photo in stretch goals) or just not show it to the user.
 
-
-
-https://github.com/Jakeleonidas/Project6/assets/122504202/975dd0db-8ede-476e-9e79-777a73fa2705
-
